@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|8a840409-ad1d-431c-aded-3cc7b327ccae
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b23db107-1a2d-4c2d-8f3b-25bc86b988ea
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|2601f00b-1ff6-42c1-9470-6e3f4ea8867a
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a9fd3e29-d050-4852-a954-e360c0d7f5ce
+C:\Users\Michael\Documents\PSoC Creator\BLE Lab 1\BLE Lab1_PWM.cydsn\BLE Lab1_PWM.cyprj|dbb85918-7ab1-4289-b4ef-6409d9e60494
+C:\Users\Michael\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1_White LED.cydsn\BLE Lab 1_White LED.cyprj|81922482-e51a-4de7-ab0c-b1e7700ebd93
+C:\Users\Michael\Documents\PSoC Creator\BLE Lab 1\BLE Lab_1_Green LED.cydsn\BLE Lab_1_Green LED.cyprj|2e81837a-ee6f-435c-84d6-63b52c4c923f
+C:\Users\Michael\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1_Red LED.cydsn\BLE Lab 1_Red LED.cyprj|44c2e02b-c0e2-4093-8047-76c79589dbd6
+C:\Users\Michael\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1.cydsn\BLE Lab 1.cyprj|b9ba015f-c88d-40a3-9c07-2cce8de5ff42
